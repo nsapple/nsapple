@@ -22,5 +22,5 @@ Socket.io: Real-time communication for chat apps and more
 APIs: Integrating third-party services to enhance web applications
 
 📫 Get in Touch
-Discord: [[Discord]](https://discordapp.com/users/1227693641804415069)
-Website: [Insert your portfolio/website link]
+Discord: [Discord](https://discordapp.com/users/1227693641804415069)
+Website: [my site](https://nsapple.github.io/nsapple/)
