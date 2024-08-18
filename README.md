@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi there! I'm nsapple
 
-<!--
-**nsapple/nsapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🌐 Creating the Web, One Line of Code at a Time
 
-Here are some ideas to get you started:
+🚀 About Me
+Experience: Beginner web developer
+Interests: Building websites, experimenting with new technologies, and constantly learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, VS Code, Postman
+
+📚 Current Projects
+Password Manager: A secure and user-friendly password manager with a neat UI
+Messaging App: A sleek chat application with an iMessage-like interface
+
+🌱 What I'm Learning
+React.js: Building dynamic and responsive web apps
+Socket.io: Real-time communication for chat apps and more
+APIs: Integrating third-party services to enhance web applications
+
+📫 Get in Touch
+Discord: [[Discord]](https://discordapp.com/users/1227693641804415069)
+Website: [Insert your portfolio/website link]
